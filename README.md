@@ -1,3 +1,7 @@
+
+
+
+
 # samarbeidTheoogNoah2
 
 Dette er en oppgave i YFF som er til Noah Og Theo.
